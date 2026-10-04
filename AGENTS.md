@@ -7,6 +7,6 @@ Own deterministic InboxFlow, reusable SwiftUI/localization, HTTPS client and ato
 Preserve HTTP/pending/credential formats and app-derived Keychain namespace. Never repeat unknown writes with fresh IDs.
 Keep Swift 6 Sendable/I/O boundaries, explicit task cancellation and known commits despite read/cleanup failure.
 Do not forward enrollment credentials through HTTP redirects. Use the supplied HTTPS origin.
-README.md contains only the approved copyright notice. Keep local evidence and machine-specific deployment data outside source.
+README.md contains only the approved usage notice and Axient Inc. copyright. Keep local evidence and machine-specific deployment data outside source.
 No GitHub Actions, CI/CD, release automation or .github/workflows unless explicitly requested.
 Run focused checks for changed contracts; preserve unrelated working-tree edits and lockfiles.
